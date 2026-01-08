@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # 추론 전용 스크립트
-# 
-# 체크포인트를 불러와서 추론만 수행합니다 (TTA 지원).
-# 
-
-# In[1]:
-
-
 # Imports
 import os
 import cv2
