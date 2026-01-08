@@ -179,7 +179,9 @@ def validation(model, dataloader, device, num_classes):
     avg_class_dice = total_class_dice / len(dataloader)
     avg_dice = avg_class_dice.mean().item()
     return avg_loss, avg_dice, avg_class_dice
-
+"""
+실험에서 재현성을 어디까지 시드 설정을 해주어야 하는가?
+"""
 # --- [Seeding Functions] ---
 def seed_torch(seed=1024):
     random.seed(seed)
