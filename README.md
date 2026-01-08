@@ -8,7 +8,7 @@
 Hand Bone Image Segmentation
 X-ray 손 뼈 영상에서 총 29개 뼈 클래스를 픽셀 단위로 분할(Semantic Segmentation) 하는 딥러닝 기반 인공지능 모델 개발
 
-<img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/3d7aa936-8247-4686-9c78-5cd4936f794c" />
+<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/3d7aa936-8247-4686-9c78-5cd4936f794c" />
 
 ### 1.2 프로젝트 구현 내용
 
@@ -107,7 +107,7 @@ pro-cv-segmentation-cv-12/
 
 ## 2. 프로젝트 팀 구성 및 역할
 
-<img width="1024" height="572" alt="Image" src="https://github.com/user-attachments/assets/7885c0d8-e8b9-45b6-bbe7-f4e5686cc041" />
+<img width="512" height="286" alt="Image" src="https://github.com/user-attachments/assets/7885c0d8-e8b9-45b6-bbe7-f4e5686cc041" />
 
 김범진_T8030  모델 실험, 결과 분석 및 방향 설정, Pseudo label, Class 별 Prediction 결과 분석
 
