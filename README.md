@@ -10,7 +10,7 @@ X-ray 손 뼈 영상에서 총 29개 뼈 클래스를 픽셀 단위로 분할(Se
 
 <img width="1730" height="1135" alt="Image" src="https://github.com/user-attachments/assets/b60a5fa6-2480-4ff8-b6ab-d07005c420dc" />
 
-### 1.2 프로젝트 구현 내용
+### 1.2 프로젝트 목표 및 기법법
 
 목표  
 - 고해상도(2048 × 2048) 손 X-ray 이미지를 입력으로 사용  
