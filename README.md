@@ -88,8 +88,6 @@ pro-cv-segmentation-cv-12/
 ## 2. 프로젝트 팀 구성 및 역할  
 
 <img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/3d7aa936-8247-4686-9c78-5cd4936f794c" />
-
-## 🧑‍🤝‍🧑 Contributors
 <div align="center">
 <table width="100%" cellpadding="12" style="table-layout: fixed;">
   <tr>
