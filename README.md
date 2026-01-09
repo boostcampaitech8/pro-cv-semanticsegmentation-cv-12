@@ -154,3 +154,15 @@ pro-cv-segmentation-cv-12/
 ### 랩업리포트 링크   
 
 
+### 등수 
+<table>
+  <tr>
+    <td>Public 6</td>
+    <td>0.9755</td>
+  </tr>
+  <tr>
+    <td>Private 6</td>
+    <td>0.9766</td>
+  </tr>
+</table>
+
