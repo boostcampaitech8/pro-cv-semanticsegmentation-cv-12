@@ -115,14 +115,38 @@ pro-cv-segmentation-cv-12/
   </tr>
 </table>
 </div>
-
-| 이름 | 역할 |
-|------|------|
-| 김범진 | 모델 실험, 결과 분석 및 방향 설정, Pseudo label, Class 별 Prediction 결과 분석 |
-| 김준수 | 모델 설계, 실험 효율화, 모델 고도화 |
-| 김한준 | 모델 설계 및 실험, 앙상블 전략 수립 및 실행 |
-| 남현지 | Train Data EDA, 모델 설계 및 실험, Prediction Analysis, 앙상블 전략 설계 |
-| 송예림 | 모델 설계 및 실험, Prediction Analysis, 앙상블 전략 설계 |
+<div align="center">
+    <table border="1" cellspacing="0" cellpadding="8">
+      <thead>
+        <tr>
+          <th>이름</th>
+          <th>역할</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>김범진</td>
+          <td>모델 실험, 결과 분석 및 방향 설정, Pseudo label, Class 별 Prediction 결과 분석</td>
+        </tr>
+        <tr>
+          <td>김준수</td>
+          <td>모델 설계, 실험 효율화, 모델 고도화</td>
+        </tr>
+        <tr>
+          <td>김한준</td>
+          <td>모델 설계 및 실험, 앙상블 전략 수립 및 실행</td>
+        </tr>
+        <tr>
+          <td>남현지</td>
+          <td>Train Data EDA, 모델 설계 및 실험, Prediction Analysis, 앙상블 전략 설계</td>
+        </tr>
+        <tr>
+          <td>송예림</td>
+          <td>모델 설계 및 실험, Prediction Analysis, 앙상블 전략 설계</td>
+        </tr>
+      </tbody>
+    </table>
+</div>  
 
 ## 3. 프로젝트 수행 절차 및 방법
 
