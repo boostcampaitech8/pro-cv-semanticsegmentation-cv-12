@@ -89,11 +89,33 @@ pro-cv-segmentation-cv-12/
 
 <img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/3d7aa936-8247-4686-9c78-5cd4936f794c" />
 
-- 김범진_T8030  모델 실험, 결과 분석 및 방향 설정, Pseudo label, Class 별 Prediction 결과 분석  
-- 김준수_T8048  모델 설계, 실험 효율화, 모델 고도화  
-- 김한준_T8057  모델 설계 및 실험, 앙상블 전략 수립 및 실행  
-- 남현지_T8061  Train Data EDA, 모델 설계 및 실험, Prediction Analysis, 앙상블 전략 설계  
-- 송예림_T8107  모델 설계 및 실험, Prediction Analysis, 앙상블 전략 설계  
+## 🧑‍🤝‍🧑 Contributors
+<div align="center">
+<table width="100%" cellpadding="12" style="table-layout: fixed;">
+  <tr>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/sTRYvhRVLxLEwauX5CbNEdQw-T9jBr4TnBfQG25TzA8jxLEhbLBFdtOzehAnEYkH9WNYOlciad0CTU6CTrFl0FFWk-psCruX71gGtTpbhtSMeTuAyHgh9WGHr1LE0KwksuCfAno9w6ipkn4Uk_pmvQ.webp" width="100" height="140"/><br/>
+      <sub><b>김범진_T8030</b></sub><br/><a href="https://github.com/kdmin3318">@kdmin3318</a>
+    </td>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/TEAq7hAaqQR9adc4dBQawd4FN06vgdGM-DVXF7dB0LCfggLNj5Z5RohWer9_sybSnLYh1buWKkw9lqz_8M3KaWgzvjdth1jsGTK5p5szr_eleGwBHfkPjz50uS9c8j5KZ9RqC6BZ_1CIAXs6rF5gCg.webp" width="100" height="140"/><br/>
+      <sub><b>김준수_T8048</b></sub><br/><a href="https://github.com/Hu-tech-hub">@Hu-tech-hub</a>
+    </td>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/phrlX2P6XbFPN1Z2_G2EXx8tupLdWVFDbPZoQ5ZvNti9NFxjejylus-3kf-n7G1sqdPXPeAXutJ7dlHxge4vMqh_JJOAUZrKrnanLI2xGbtxUEktxq5CtFaUFm_NHmU48FhLhfRichn_NOcFFAcjiw.webp" width="100" height="140"/><br/>
+      <sub><b>김한준_T8057</b></sub><br/><a href="https://github.com/seolbbb">@seolbbb</a>
+    </td>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/78r16S-hKpnOVXz-13LGkXzbQLv3bQUh0rO6JxL6ysH41BDXe7xxN67U46JNJcOHiwWVcjcJ4pdLkZvieHC7f-apRZkeh5OpgmZZJTnszeiWVbrtMCs0mH68HA5XusLXBX0cYNdoAnkQGedd-bK_OQ.webp" width="100" height="140"/><br/>
+      <sub><b>남현지_T8061</b></sub><br/><a href="https://github.com/dltkdwns0730">@dltkdwns0730</a>
+    </td>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/TDU3Pi77O77QG1nh-TKoohK4FuePP28dEcP6nTvFl2FHepJZM_feevG4L-EveKWGWWmgOhGkiMRz5PpfoMzFcsHW0SeNCZ91oDSr-rAtfqfK9uDEZw3997XQiINhNX5wIsm_3KtdvoFmjYRlwRueuQ.webp" width="100" height="140"/><br/>
+      <sub><b>송예림_T8107</b></sub><br/><a href="https://github.com/iamcmj">@iamcmj</a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## 3. 프로젝트 수행 절차 및 방법
 
