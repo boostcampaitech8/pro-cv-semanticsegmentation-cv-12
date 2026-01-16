@@ -97,7 +97,7 @@ pro-cv-segmentation-cv-12/
       <sub><b>김범진_T8030</b></sub><br/><a href="https://github.com/kimbum1018">@kimbum1018</a>
     </td>
     <td align="center">
-      <img src="https://i.namu.wiki/i/TEAq7hAaqQR9adc4dBQawd4FN06vgdGM-DVXF7dB0LCfggLNj5Z5RohWer9_sybSnLYh1buWKkw9lqz_8M3KaWgzvjdth1jsGTK5p5szr_eleGwBHfkPjz50uS9c8j5KZ9RqC6BZ_1CIAXs6rF5gCg.webp" width="100" height="140"/><br/>
+      <img src="https://i.namu.wiki/i/hyXPLRN1qFBeRhet9vUdX7IhQXpgk8zqUE_Urjgrk_TbjWLDNGUVVTb9aceMjccFQBQGwz3UEH2pX-VXg63P1-1a4zDpDUliOCgS57qbcH5whDzKfOX7cwFQXsG5FC05CCCuYq0Yw_zX8c1_CPaHtA.webp" width="100" height="140"/><br/>
       <sub><b>김준수_T8048</b></sub><br/><a href="https://github.com/0129jonsu">@0129jonsu</a>
     </td>
     <td align="center">
